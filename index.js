@@ -9,7 +9,7 @@ const toggleBtn = document.querySelector(".swich-bar");
 //default value when page load
 
 pageViews = "100k";
-price = 12;
+price = 16;
 render();
 
 userChoise.addEventListener("change", () => {
